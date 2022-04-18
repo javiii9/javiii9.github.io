@@ -1,0 +1,21 @@
+header{
+    background-color: black;
+}
+header h1{
+    color: white;
+    text-align: left;
+    padding: 25px;
+}
+nav{
+    background-color: darkgrey;
+    padding: 15px;
+}
+nav a{
+    color: whitesmoke;
+    margin-right: 15px;
+}
+body{
+    overflow-x: auto;
+    overflow-y: scroll;
+}
+
