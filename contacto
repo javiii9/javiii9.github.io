@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="ContactoCss.css">
+        <title>Pagina Web</title>
+    </head>
+    <body>
+        <div class="wrapper">
+            <div class="one"> 
+                <header>
+                    <h1> TopAutos </h1>
+                </header>
+            </div>
+            <div class="three"> 
+                <nav>
+                    <a href="PaginaWeb.html" id="link"> Inicio </a> <br>
+                    <a href="Coches.html" id="link"> Coches </a> <br>
+                    <a href="Contacto.html" id="link"> Contacto </a>
+                </nav>
+            </div>
+            <div class="four"> 
+                <section id="gris">
+                    <h2>
+                        Contacto
+                    </h2>
+                    <p>
+                        Telefono: 657 402 241 <br> Direccion: Calle Calzada de Medina, 78, 37004. Salamanca
+                    </p>
+                </section>
+            </div> 
+        </div>
+    </body>
+</html>
